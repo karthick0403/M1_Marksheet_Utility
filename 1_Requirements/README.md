@@ -40,18 +40,15 @@ The marksheet entry form includes “student details” and “grade points obta
     
 ## LOW LEVEL REQUIREMENTS:
     
-    Hardware requirement:
-         
-         RAM: 1 GB or above.
-         Hard disk: Minimum 20 GB free space.
-         Processor: Pentium 4 (1.6 GHz) or higher.
-         
-   Software requirement:
-   
-         Operating system: Windows XP/ 2000/ Visual studio code/ 7/ 8/ 10.
-         Front End: Microsoft Visual studio 2005.
-         Back End: AS. NET.
-         Database: Microsoft SQL Server.
+## Hardware requirement:
+      RAM: 1 GB or above.
+      Hard disk: Minimum 20 GB free space.
+      Processor: Pentium 4 (1.6 GHz) or higher.
+## Software requirement:
+     Operating system: Windows XP/ 2000/ Visual studio code/ 7/ 8/ 10.
+     Front End: Microsoft Visual studio 2005.
+     Back End: AS. NET.
+     Database: Microsoft SQL Server.
          
 # 4 W's and 1 H     
 
