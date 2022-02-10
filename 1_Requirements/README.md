@@ -7,6 +7,16 @@
       # To solve this problem ,going to build a marksheet generation system
       
 # SWAT ANALYSIS:
+
+ ## strength
+     It is very usefull for staff to generate marks and grade.
+     It is usefull for all colleges and schools
+     It gives subject wise mark and grades to identify
+     It also generate percentage also pass or fail in table formation
+ ## Weakness 
+     It gives lot of server error while generating all student marksheet.
+ ## oppurtunity
+     User can generate all subject marks,grades and percentage in a single sheet with neat tabulation.
   ## Existing System:
 
 Looking at the existing mark sheet management system, it is found that many educational institutions, mainly engineering colleges, have incorporated “Grading System” in their educational stream. But, the problem here is that they are still using manual methods for calculating grades and entering in them in the marksheet. This is a very time consuming and uneconomical process.
@@ -49,6 +59,10 @@ The marksheet entry form includes “student details” and “grade points obta
      It is used for all colleges and school for calculating marks.
 ## who will benefit ?
     All school and colleges will benefit for calculating percentages and marks in easy way.
+## When
+   User can be used when the exam and paper valuation is over.
+## What
+   Marksheet sheet generation system,user can calculaate student subject mark,grades,percentage,pass or fail using this system
 ## how does this work ?
    Enter all subject marks while asking and it will display percentage ,grades and detail of the student
     
