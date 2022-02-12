@@ -26,11 +26,7 @@ _____________________
 PS NO. |  NAME  |    FEATURES    |
 -------|---------|----------------|
 99007919| KARTHICK D  | Marksheet Creating System
-
-## Challenges Faced and How Was It Overcome
-
-1. Applying FILES concept was quite challenging.
-2. <a href="https://app.codiga.io/public/user/github/karthick0403">
+<a href="https://app.codiga.io/public/user/github/karthick0403">
    <img src="https://api.codiga.io/public/badge/user/github/karthick0403?style=light" alt="codiga badge" />
 </a>
-3. https://app.codiga.io/public/user/github/karthick0403
+https://app.codiga.io/public/user/github/karthick0403
