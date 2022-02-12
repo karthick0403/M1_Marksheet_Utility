@@ -13,7 +13,8 @@
      It is usefull for all colleges and schools
      It gives subject wise mark and grades to identify
      It also generate percentage also pass or fail in table formation
-     ![Untitled Workspace (3)](https://user-images.githubusercontent.com/98890597/153694292-6fbb1068-a65a-4dc8-a559-6b8478eda6b8.png)
+
+![Untitled Workspace (3)](https://user-images.githubusercontent.com/98890597/153694292-6fbb1068-a65a-4dc8-a559-6b8478eda6b8.png)
 
  ## Weakness 
      It gives lot of server error while generating all student marksheet.
