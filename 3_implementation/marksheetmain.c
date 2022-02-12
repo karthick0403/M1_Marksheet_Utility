@@ -9,15 +9,15 @@ char s3[] = "Congratulations";
 char s4[] = "     ";
 void inputfunction(){
 	printf(" name : ");
-	fgets(ch);
+	scanf("%s",ch);
 	printf("place : ");
-        fgets(b);
+        scanf("%s",b);
 	printf("college name : ");
-	fgets(a);
+	scanf("%s",a);
 	printf("DATE: ");
-	fgets(d);
+	scanf("%s",d);
 	printf("Medium : ");
-	fgets(e);
+	scanf("%s",e);
 	printf("ROLL NO : ");
 	scanf("%d",&r);
 
