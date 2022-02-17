@@ -1,4 +1,4 @@
-# M1_Projecttype_Goal
+# M1_Marksheet_Utility
 
 # Marksheet Creating system
    In this project user can do all subject ,total,grade and Percentages to generate marksheet easily
