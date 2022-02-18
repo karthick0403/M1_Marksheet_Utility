@@ -30,3 +30,5 @@ PS NO. |  NAME  |    FEATURES    |
    <img src="https://api.codiga.io/public/badge/user/github/karthick0403?style=light" alt="codiga badge" />
 </a>
 https://app.codiga.io/public/user/github/karthick0403
+https://api.codiga.io/project/31033/score/svg
+https://api.codiga.io/project/31033/status/svg
