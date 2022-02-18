@@ -50,12 +50,12 @@ void input(){
 	    if(o1>=20){
 		        printf("\nplz enter less than 20 ");
 		}
-		printf("\nEnter OOPS & Data Structure ");
+		printf("\nEnter C program ");
 	    scanf("%d",&p);
 	    if(p>=80){
 		        printf("\nplz enter less than 80 ");
 		}
-		printf("\nEnter OOPS & Data Structure Practical ");
+		printf("\nEnter c program  Practical ");
 	    scanf("%d",&p1);
 	    if(p1>=20){
 		        printf("\nplz enter less than 20 ");
