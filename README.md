@@ -29,5 +29,6 @@ PS NO. |  NAME  |    FEATURES    |
 <a href="https://app.codiga.io/public/user/github/karthick0403">
    <img src="https://api.codiga.io/public/badge/user/github/karthick0403?style=light" alt="codiga badge" />
 </a>
+
 ![codiga_grade](https://api.codiga.io/project/31033/score/svg)
 ![codiga_grade](https://api.codiga.io/project/31033/status/svg)
