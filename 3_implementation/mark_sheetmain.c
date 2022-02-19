@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>
-int maths,maths1,n,n1,o,o1,p,p1,q1,q2,r,total,R,K1,K2,K3,K4,K5;
+int maths,maths1,nlc,nlc1,o,o1,p,p1,q1,q2,r,total,R,K1,K2,K3,K4,K5;
 char b[20],ch[20],a[50],e[8],d[30],grade,result[5],remark[16],q,x,y,u,v;
 char s[] = "PASS";
 char s1[] = "FAIL";
@@ -31,13 +31,13 @@ void input(){
 		        printf("\nplz enter less than 20 ");
 		}
 		printf("\nNETWORK LINEAR CIRCUIT  ");
-	    scanf("%d",&n);
-	    if(n>=80){
+	    scanf("%d",&nlc);
+	    if(nlc>=80){
 		        printf("\nplz enter less than 80 ");
 		}
 		printf("\nNETWORK LINEAR CIRCUIT PRACTICALS:  ");
-	    scanf("%d",&n1);
-	    if(n1>=20){
+	    scanf("%d",&nlc1);
+	    if(nlc1>=20){
 		        printf("\nplz enter less than 20 ");
         }
 		printf("\nEnter Electronic Measurement Instrumentation ");
@@ -97,8 +97,8 @@ void show(){
 		k++;
 	}
 	printf("\n|       MATHEMATICS         \t\t\t| %d\t\t| %d\t\t|\t100 \t|\t%d %c\t|",maths,maths1,maths+maths1,q);
-	printf("\n| Network linear circuit  \t\t\t| %d\t\t| --\t\t|\t80 \t|\t%d %c\t|",n,n,x);
-	printf("\n| Network linear circuit practical\t\t| --\t\t| %d\t\t|\t20 \t|\t%d \t|",n1,n1);
+	printf("\n| Network linear circuit  \t\t\t| %d\t\t| --\t\t|\t80 \t|\t%d %c\t|",nlc,nlc,x);
+	printf("\n| Network linear circuit practical\t\t| --\t\t| %d\t\t|\t20 \t|\t%d \t|",nlc1,nlc1);
 	printf("\n| Electronic Measurement Instrumentation \t| %d\t\t| --\t\t|\t80 \t|\t%d %c\t|",o,o,y);
 	printf("\n| Electronic Measurement Instrumentation practical  | --\t\t| %d\t\t|\t20 \t|\t%d %c\t|",o1,o1);
 	printf("\n| c programming     \t\t\t\t| %d\t\t| --\t\t|\t80 \t|\t%d %c\t|",p,p,u);
@@ -131,7 +131,7 @@ int calculations(){
 	
 	char res[5];
 	K1=maths+maths1;
-	K2=n+n1;
+	K2=nlc+nlc1;
 	K3=o+o1;
 	K4=p+p1;
 	K5=q1+q2;
