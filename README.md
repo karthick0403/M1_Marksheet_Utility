@@ -46,5 +46,9 @@ cpp check
 
 [![Unit Testing](https://github.com/karthick0403/M1_Marksheet_Utility/actions/workflows/unittesting.yml/badge.svg)](https://github.com/karthick0403/M1_Marksheet_Utility/actions/workflows/unittesting.yml)
 
-## git inspector
+## CI
+
+[![CI](https://github.com/karthick0403/M1_Marksheet_Utility/actions/workflows/1main.yml/badge.svg)](https://github.com/karthick0403/M1_Marksheet_Utility/actions/workflows/1main.yml)
+
+
 
