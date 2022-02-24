@@ -50,5 +50,6 @@ cpp check
 
 [![CI](https://github.com/karthick0403/M1_Marksheet_Utility/actions/workflows/1main.yml/badge.svg)](https://github.com/karthick0403/M1_Marksheet_Utility/actions/workflows/1main.yml)
 
-
+## git inspector
+[![Git Inspector](https://github.com/karthick0403/M1_Marksheet_Utility/actions/workflows/git.yml/badge.svg)](https://github.com/karthick0403/M1_Marksheet_Utility/actions/workflows/git.yml)
 
