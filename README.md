@@ -33,6 +33,11 @@ PS NO. |  NAME  |    FEATURES    |
 ![codiga_grade](https://api.codiga.io/project/31033/score/svg)
 ![codiga_grade](https://api.codiga.io/project/31033/status/svg)
 
+
+cpp check
+
+[![Cppcheck](https://github.com/karthick0403/M1_Marksheet_Utility/actions/workflows/main.yml/badge.svg)](https://github.com/karthick0403/M1_Marksheet_Utility/actions/workflows/main.yml)
+
 ## codacy
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/5d8e06fd940a43dcae0ceeb84994ca36)](https://www.codacy.com/gh/karthick0403/M1_Marksheet_Utility/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=karthick0403/M1_Marksheet_Utility&amp;utm_campaign=Badge_Grade)
